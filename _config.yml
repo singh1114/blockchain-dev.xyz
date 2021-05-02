@@ -13,7 +13,7 @@ collections:
     output: true
 name: Blockchain Dev
 description: Blockchain Dev
-avatar: https://pythonprogramming.org/images/bitcoin.svg
+avatar: https://blockchain-dev.xyz/images/bitcoin.svg
 footer-links:
   dribbble:
   email: pythonprogrammingorg@gmail.com
@@ -28,7 +28,7 @@ footer-links:
   stackoverflow:
   youtube:
 disqus: ranvir-singh
-google_analytics: G-B7T7J6D5ZQ
+google_analytics: G-LDSL78WCP2
 url: https://blockchain-dev.xyz
 baseurl: ""
 permalink: "/:title/"
