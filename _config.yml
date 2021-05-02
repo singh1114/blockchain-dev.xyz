@@ -1,5 +1,5 @@
 ---
-title: Best Blog Theme
+title: Blockchain Dev
 timezone: UTC
 collections:
   posts:
@@ -11,8 +11,8 @@ collections:
   authors:
     title: Posts
     output: true
-name: Best Blog Theme
-description: Best Blog Theme
+name: Blockchain Dev
+description: Blockchain Dev
 avatar: https://pythonprogramming.org/images/python.svg
 footer-links:
   dribbble:
