@@ -53,7 +53,6 @@ This function will always return some fixed value of modulo 10.
 
 ```python
 >>> get_modulo_coded_output("blockchain-dev.xyz")
-
 10
 ```
 
@@ -77,6 +76,7 @@ def get_modulo_coded_output(secret1, secret2, secret3):
 
 ```python
 >>> get_modulo_coded_output("blockchain-dev.xyz", "blockchain-dev.xyz", "blockchain-dev.xyz")
+2
 ```
 
 This will always return the same result and even a small change in any of the secret will lead to big change the output hash.
