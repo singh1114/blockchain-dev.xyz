@@ -14,7 +14,7 @@ author_username: ranvir_xyz
 series_title: Learning Ethereum Post
 series_unique_code: ethereum_dev
 series_part: 1
-series_page_title: Hash Functions - What are hash functions in a Blockchain?
+series_page_title: Hash Functions
 skip_toc: true
 ---
 
@@ -25,9 +25,13 @@ Hi there, welcome back. Today we are going to discuss few things realted to hash
 There are a few features according to which you can define a hash,
 
 * The result is determinstic.
+
 * It's really hard to guess the key( Generally).
+
 * The size of output is same.
+
 * You can pass anything as the input to this particular hash function.
+
 * Its one directional, you can't guess the secret if you know the hash.
 
 
