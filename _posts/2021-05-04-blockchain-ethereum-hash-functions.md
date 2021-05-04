@@ -11,7 +11,7 @@ categories:
   - blockchain
 author_name: Ranvir Singh
 author_username: ranvir_xyz
-series_title: Learning Ethereum Post
+series_title: Learning Ethereum
 series_unique_code: ethereum_dev
 series_part: 1
 series_page_title: Hash Functions
