@@ -4,7 +4,7 @@ title: Two section Footer
 date: 2020-02-10T08:42:00.000Z
 updated_date: 2020-02-10T08:42:00.000Z
 description: First part of series
-published: true
+published: false
 categories:
   - python
   - django

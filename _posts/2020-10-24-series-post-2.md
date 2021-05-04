@@ -14,7 +14,7 @@ categories:
 author_name: Ranvir Singh
 author_username: ranvir_xyz
 series_title: Series Posts
-series_unique_code: python_beginner_series
+series_unique_code: ethereum_dev
 series_part: 2
 series_page_title: Series Post part II
 skip_toc: true

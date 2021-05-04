@@ -4,7 +4,7 @@ title: Lazyloading of Image
 date: 2020-02-10T08:42:00.000Z
 updated_date: 2020-02-10T08:42:00.000Z
 description: Lazyloading of Image
-published: true
+published: false
 categories:
   - python
   - django
