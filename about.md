@@ -4,35 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-Wide range of Python tutorials by our great authors.
+Everything is about blockchain in here.
 
 ---
 
-### Best Blog Theme
+## What is a blockchain?
 
-`Best` blog theme is inspired by [Barry clark's Jekyll Now](https://github.com/barryclark/jekyll-now) and few inspirations
-taken from other blogs as well.
+Blockchain is a distributed peer to peer network of nodes connected to one another.
 
-There a lot of features in the blog. Each feature is a separate blog post available.
+All the nodes makes sure that everything is running smoothely. All of the nodes contain a copy of data and code on the blockchain.
 
-{% if site.show_authors %}
----
+All the records of data and code are bundled together to form a block and they are chained together making a blockchain.
 
-### Our Authors
+## Why should you learn about blockchain?
 
-<div class="original_source">
-  {% for author_page in site.authors %}
-    <div class="linked_post_div" style="margin: 10px 0px; font-size: 14.5px;">
-      <article class="post">
-        <h3>About Author &middot; <a href="{{site.baseurl}}{{ author_page.permalink }}">{{ author_page.title }}</a></h3>
-        {% if author_page.description %}
-          {{ author_page.description }}
-          <br>
-        {% else %}
-          {{ author_page.excerpt }}
-        {% endif %}
-      </article>
-    </div>
-  {% endfor %}
-</div>
-{% endif %}
+No matter what recruiting website you use, just go and search for blockchain dev and you will see mind blowing salaries given to indivisuals who are just quick learners.
+
