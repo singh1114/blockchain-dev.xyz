@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: "/about-blockchain-dev/"
+permalink: "/about/"
 layout: page
 ---
 
