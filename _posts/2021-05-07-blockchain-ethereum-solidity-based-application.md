@@ -11,10 +11,6 @@ categories:
   - blockchain
 author_name: Ranvir Singh
 author_username: ranvir_xyz
-series_title: Learning Ethereum Series
-series_unique_code: ethereum_dev
-series_part: 1
-series_page_title: Hash Functions
 skip_toc: true
 ---
 
@@ -48,10 +44,15 @@ We will have to build the business logic which is known as smart contracts and w
 
 Another thing we will need to get started is to ethereum wallet so that we can connect to the blockchain for making these calls to the blockchain.
 
-We will also need node installed on our system, we will be using JavaScript to build stuff out.
+One major thing we will need is node installed on our system, we will be using JavaScript to build stuff out.
 
 We will also want to run local blockchain, so that we can run the blockchain on our local system and test stuff out before trying it out on production. We will be using [ganache](https://www.trufflesuite.com/ganache) for that.
 
-We will also using a framework that will help us writing the smart contracts in solidity language. In this post, we are going to use [truffle suite](https://www.trufflesuite.com/truffle) for this.
+We will also be using a framework that will help us writing the smart contracts in solidity language. In this post, we are going to use [truffle suite](https://www.trufflesuite.com/truffle) for this.
+
+Metamask is another tool that we will need to connect to the blockchain. You can directly install an extension for that.
 
 {% include note.html title="Let's get started" description="Now that we know a little bit about the blockchain and what we are going to develop, let's get started." %}
+
+## Setting up the project
+
