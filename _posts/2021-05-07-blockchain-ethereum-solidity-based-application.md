@@ -40,15 +40,27 @@ All the records of data and code are bundled together to form a block and they a
 
 ## What all we will need?
 
+### Solidity: A way to create smart contracts
+
 We will have to build the business logic which is known as smart contracts and we will need to know a language called `solidity`. All these smart contracts are immutable so once you put them on the blockchain they can't be updated.
+
+### Ethereum Wallet: A place where all your big bucks are
 
 Another thing we will need to get started is to ethereum wallet so that we can connect to the blockchain for making these calls to the blockchain.
 
+### JavaScript: The language
+
 One major thing we will need is node installed on our system, we will be using JavaScript to build stuff out.
+
+### Ganache: Run the blockchain locally
 
 We will also want to run local blockchain, so that we can run the blockchain on our local system and test stuff out before trying it out on production. We will be using [ganache](https://www.trufflesuite.com/ganache) for that.
 
+### Truffle suite: The framework
+
 We will also be using a framework that will help us writing the smart contracts in solidity language. In this post, we are going to use [truffle suite](https://www.trufflesuite.com/truffle) for this.
+
+### Metamask: Helps us connect to blockchain
 
 Metamask is another tool that we will need to connect to the blockchain. You can directly install an extension for that.
 
