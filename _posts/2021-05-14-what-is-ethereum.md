@@ -28,7 +28,7 @@ Ethereum at its heart is just a network of computers( nodes) talking to each oth
 
 There are a ton of Ethereum networks out there. Of course, there is the main one where all the action happens. This main network is the one everyone deploys their production apps to and also this is the on which Ethereum coin is traded.
 
-There are other networks based on the Ethereum blockchain system as well. Some are just for testing stuff, some are for other purposes as well. You can also launch your private Ethereum network as well.
+There are other networks based on the Ethereum blockchain system as well. Some are just for testing stuff, some are for other purposes as well. You can also launch your private Ethereum network.
 
 These networks are made using the connection of nodes. We of course in this list of posts will be creating a local network for testing our stuff.
 
