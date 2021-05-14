@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up Metamask and some details about your Ethereum Account
+title: Metamask and details about Ethereum Account
 date: 2021-05-14T20:03:24.455Z
 updated_date: 2021-05-14T20:03:24.493Z
 description: What is Ethereum and how to work with it
