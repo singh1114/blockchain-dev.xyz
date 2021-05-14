@@ -38,4 +38,6 @@ Each movement of the data is stored as a separate entry in each of the nodes sep
 
 But if you read in detail about the log-based databases like Cassandra-based storage system, this is what they do, but they provide some other mechanisms to allow updates and deletes.
 
-This is more like a Kafka-based approach. If you are a software engineer already, it helps to make those connections with the existing systems. It helps you to understand stuff better.
+This is more like a Kafka-based approach.
+
+If you are a software engineer already, it helps to make those connections with the existing systems. It helps you to understand stuff better.
