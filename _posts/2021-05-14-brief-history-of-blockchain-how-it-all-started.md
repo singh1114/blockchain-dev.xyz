@@ -40,3 +40,9 @@ Soon after this paper was published in January 2009, the bitcoin network was bro
 The original idea behind the bitcoin was to allow the users to make transactions, but soon people started realizing that the underlying concept of blockchain can be used at other places as well.
 
 Another paper was released later under the name of Ethereum introducing the concept of smart contracts and many other things.
+
+The author of the paper, Vitalik Buterin, wanted to enable other applications to be built using blockchains and not just powering transactions.
+
+There are a lot of innovations happening in this sector daily and its pretty hard to keep up with it.
+
+With this list of posts, we are going to learn about building blockchain-based applications and create one for ourselves.
