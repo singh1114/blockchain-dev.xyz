@@ -29,4 +29,4 @@ next_slug: none-yet
 ---
 {% include lazyload.html image_src="https://i.ibb.co/Nm9NnX1/blockchain-history.png" image_alt="Brief history of Blockchain" image_title="Brief history of Blockchain" %}
 
-The brief history of blockchain. How Satoshi Nakamoto wrote his first paper regarding bitcoin and its use cases and how it all started.
+Today we are going to talk about when it all started. October 31, 2008 was the first time 
