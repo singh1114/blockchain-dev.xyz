@@ -11,11 +11,12 @@ categories:
   - blockchain
 author_name: Ranvir Singh
 author_username: ranvir_xyz
-series_title: Learning Ethereum Series
+skip_toc: true
 series_unique_code: ethereum_dev
 series_part: 1
 series_page_title: Hash Functions
-skip_toc: true
+series_title: Learning Ethereum Series
+next_slug: series-post-2
 ---
 
 Hash Functions - What are hash functions in a Blockchain?
