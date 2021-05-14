@@ -25,7 +25,7 @@ series_unique_code: ethereum-and-solidity-the-complete-developers-guide
 series_part: "1"
 series_page_title: Blockchain History
 series_title: Ethereum and solidity complete developer guide
-next_slug: none-yet
+next_slug: what-is-ethereum
 ---
 {% include lazyload.html image_src="https://i.ibb.co/Nm9NnX1/blockchain-history.png" image_alt="Brief history of Blockchain" image_title="Brief history of Blockchain" %}
 
