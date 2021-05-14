@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Ethereum and how to work with it
+title: What is Ethereum and how to work with it?
 date: 2021-05-14T16:45:25.734Z
 updated_date: 2021-05-14T16:45:25.785Z
 description: What is Ethereum and how to work with it
