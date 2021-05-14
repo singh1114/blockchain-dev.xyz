@@ -14,6 +14,8 @@ author_username: ranvir_xyz
 skip_toc: true
 ---
 
+Making your first blockchain app is not that difficult. We are going to break everything down into small and easy chunks to remember in this post. So, let's dive in.s
+
 To learn about how does the a blockchain works, we will first have to think about how does a website is transferred from the normal internet. Let's say we are trying to build a better IMDb site.
 
 Generally there are 2 entities involved, one is the device from which you are accessing the website, and the other is the system which contain all the data needs to make it possible to make actions on that website.
@@ -68,3 +70,6 @@ Metamask is another tool that we will need to connect to the blockchain. You can
 
 ## Setting up the project
 
+### Installing Ganache
+
+Let's get our own personal blockchain setup on local.
