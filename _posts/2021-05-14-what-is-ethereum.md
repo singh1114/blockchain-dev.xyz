@@ -17,8 +17,8 @@ show_ads: true
 show_telegram_signup: false
 series_unique_code: ethereum-and-solidity-the-complete-developers-guide
 series_part: "2"
-series_page_title: Ethereum and solidity complete developer guide
-series_title: What is Ethereum
+series_page_title: What is Ethereum
+series_title: Ethereum and solidity complete developer guide
 previous_slug: brief-history-of-blockchain
 ---
 What is Ethereum and how to work with it
