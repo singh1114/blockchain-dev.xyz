@@ -20,7 +20,24 @@ series_part: "2"
 series_page_title: What is Ethereum
 series_title: Ethereum and solidity complete developer guide
 previous_slug: brief-history-of-blockchain
+skip_from_listing: false
 ---
 Ethereum at its heart is just a network of computers( nodes) talking to each other and having the same data as other nodes are having which can be used to a ton of different stuff. Transferring money is just one of its use cases.
 
 {% include lazyload.html image_src="https://i.ibb.co/rc2Pd1J/Screenshot-2021-05-15-at-12-27-54-AM.png" image_alt="Ethereum node connection" image_title="Ethereum node connection" %}
+
+## There are many Ethereum Networks
+
+There are a ton of Ethereum networks out there. Of course, there is the main one where all the action happens. This main network is the one everyone deploys their production apps and Ethereum coin is traded.
+
+There are other networks based on the Ethereum blockchain system as well. Some are just for testing stuff, some are for other purposes as well. You can also launch your private Ethereum network as well.
+
+These networks are made using the connection of nodes. We of course in this list of posts will be creating a local network for testing our stuff.
+
+Each of these nodes needs to have the Ethereum client installed on them to be part of the network. Anyone with this client installed can run the node. Each of the nodes will have a copy of the data on the network.
+
+Each movement of the data is stored as a separate entry in each of the nodes separately. This makes the blockchain no different from a database with one difference that you cannot delete or update the old data.
+
+But if you read in detail about the log-based databases like Cassandra-based storage system, this is what they do, but they provide some other mechanisms to allow updates and deletes.
+
+This is more like a Kafka-based approach. If you are a software engineer already, it helps to make those connections with the existing systems. It helps you to understand stuff better.
