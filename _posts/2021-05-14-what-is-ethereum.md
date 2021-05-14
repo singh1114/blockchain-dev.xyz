@@ -39,3 +39,13 @@ But if you have read details about log-based databases like `Cassandra storage e
 This is more like a `Kafka-based` approach.
 
 If you are a software engineer already, it helps to make those connections with the existing systems. It helps you to understand stuff better.
+
+Now that we have understood the basics of what Ethereum is, let's talk about the ways in which we can work with it both as a developer and a consumer.
+
+As a developer, we might want to connect to the network to run our apps on the network using code. There are a ton of ways of doing that. `web3.js` is one that we are going to use. We are also going to use `Solidity` to create smart contracts.
+
+On the other hand, as a consumer, we can use an extension like metamask to connect to the network and run Ethereum based applications in our browser. Brave browser is the browser that is working to bring in-browser support to decentralized apps.
+
+We are going to deep dive into each of them separately in our upcoming posts.
+
+Till then! Enjoy 🎉
