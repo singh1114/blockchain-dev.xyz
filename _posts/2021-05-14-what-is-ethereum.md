@@ -42,7 +42,7 @@ If you are a software engineer already, it helps to make those connections with 
 
 Now that we have understood the basics of what Ethereum is, let's talk about the ways in which we can work with it both as a developer and as a consumer.
 
-As a developer, we might want to connect to the network to run our apps on the network using code. There are a ton of ways of doing that. `web3.js` is one that we are going to use. We are also going to use `Solidity` to create smart contracts.
+As a developer, we might want to connect to the network to run our apps on the network using code. There are a ton of ways of doing that. `web3.js` is one that we are going to use. We are also going to use `Solidity` to create smart contracts. We are going to talk about them in detail later though.
 
 On the other hand, as a consumer, we can use an extension like metamask to connect to the network and run Ethereum based applications in our browser. Brave browser is the browser that is working to bring in-browser support to decentralized apps.
 
