@@ -56,6 +56,8 @@ layout: default
       {% endif %}
     {% endfor %}
   </div>
+  
+  {% include series-next.html previous_slug=page.previous_slug next_slug=page.next_slug %}
 
   {% include share-bar.html %}
 
