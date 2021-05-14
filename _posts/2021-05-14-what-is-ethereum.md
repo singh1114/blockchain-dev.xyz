@@ -34,8 +34,8 @@ These networks are made using the connection of nodes. Each of these nodes needs
 
 Each movement of the data is stored as a separate entry in each of the nodes separately. This makes the blockchain no different from a database with one difference that you cannot delete or update the old data.
 
-But if you have read details about log-based databases like Cassandra storage engine, this is what they do internally, but they provide some other mechanisms to allow updates and deletes.
+But if you have read details about log-based databases like `Cassandra storage engine`, this is what they do internally, but they provide some other mechanisms to allow updates and deletes.
 
-This is more like a Kafka-based approach.
+This is more like a `Kafka-based` approach.
 
 If you are a software engineer already, it helps to make those connections with the existing systems. It helps you to understand stuff better.
