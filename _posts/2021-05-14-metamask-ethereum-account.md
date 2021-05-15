@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Metamask and details about Ethereum Account
-date: 2021-05-14T20:03:24.455Z
-updated_date: 2021-05-14T20:03:24.493Z
+date: 2021-05-15T21:01:18.202Z
+updated_date: 2021-05-15T21:01:19.903Z
 description: What is Ethereum and how to work with it
 published: true
 tags:
