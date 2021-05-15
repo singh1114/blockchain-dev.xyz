@@ -43,7 +43,7 @@ Crypto due to its architecture( more aligned toward security) allowed a limited 
 
 ## Third generation of cryptocurrency - Cardano
 
-The main issue with crypto is just not powering the developers to build stuff on top of the blockchain itself, it is also to build the blockchain itself, as all nodes at a given time, need to have the whole data point with each and every update on it, we need good systems with large storage.
+The main issue with crypto is just not powering the developers to build stuff on top of the blockchain itself, it is also to build the blockchain itself, as all nodes at a given time, need to have the whole data point with each and every update on it, we need good systems with large storage. With third-generation cryptocurrencies, we are trying to solve issues like this.
 
 So the third generation of cryptocurrencies is built using 3 main parameters in mind.
 
@@ -53,3 +53,22 @@ So the third generation of cryptocurrencies is built using 3 main parameters in 
 
 * Sustainability
 
+## Solving scalability with Cardano
+
+Scalability for every system can be divided into three main points more so to the cryptocurrency world.
+
+### TPS
+
+Transactions per second are the main scalability point that we want to tackle. More the number of transactions per second, more the number of users that will be able to transfer money.
+
+### Network Bandwidth
+
+According to the design of Blockchain systems, since it's a peer-to-peer network it's hard to achieve network bandwidth of Megabytes to Gigabytes of Bandwidth.
+
+### Data storage
+
+Since all the nodes need to have a copy of each transaction on the Blockchain and we need to probably store the transactions that happened like 10 years as well, we need some scalability mechanism in place over there as well.
+
+#### Solving TPS issue with Ouroboros
+
+For handling the TPS issue Cardano is using peer-reviewed implementation of [Ouroboros](https://cardano.org/ouroboros/)
