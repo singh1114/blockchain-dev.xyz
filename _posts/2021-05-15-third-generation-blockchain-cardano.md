@@ -63,7 +63,7 @@ Transactions per second are the main scalability point that we want to tackle. M
 
 ### Network Bandwidth
 
-According to the design of Blockchain systems, since it's a peer-to-peer network it's hard to achieve network bandwidth of Megabytes to Gigabytes of Bandwidth.
+According to the design of Blockchain systems, since it's a peer-to-peer network it's hard to achieve network bandwidth of Megabytes to Gigabytes.
 
 ### Data storage
 
@@ -81,4 +81,7 @@ With such technique, we can have a probable secure network given more 51% of the
 
 One more great thing about Ouroboros is that it can run epochs in parrallel and can achieve more TPS when more nodes want to connect.
 
-#### ABC
+{% include lazyload.html image_src="https://i.ibb.co/NprFhfr/Screenshot-2021-05-16-at-6-01-17-PM.png" image_alt="Ouroboros Design" image_title="Ouroboros Design" %}
+
+#### Allowing more data to pass - Solving Networking bottlenecks
+
