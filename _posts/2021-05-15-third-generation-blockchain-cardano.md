@@ -75,7 +75,7 @@ For handling the TPS issue Cardano is using a peer-reviewed implementation of [O
 
 Ouroboros uses a proof of stack algorithm as compared to proof of work algorithm as used by older version of cryptocurrencies. So, what it essentially does is that it choses a leader from all the nodes available for a given slot and allow only that to mine the transaction.
 
-With such technique, we can have a probable secure network given more 51% of the nodes available for mining are not compromised. Remember 51% attack in Silicon Valley, this is what they were trying to do.
+With such a technique, we can have a probable secure network given more 51% of the nodes available for mining are not compromised. Remember 51% attack in Silicon Valley, this is what they were talking about.
 
 {% include lazyload.html image_src="https://i.ibb.co/Fqw4Qsz/51.jpg" image_alt="51 percent attack in Silicon Valley" image_title="51 percent attack in Silicon Valley" %}
 
