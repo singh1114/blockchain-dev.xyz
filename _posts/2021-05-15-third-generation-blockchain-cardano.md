@@ -3,6 +3,8 @@ layout: post
 title: Third generation blockchain - Discussion on Cardano
 date: 2021-05-16T12:19:41.391Z
 updated_date: 2021-05-16T12:19:42.339Z
+description: Issues with the first and second generation of crypto currencies
+  and how cardano is working to solve all these problems.
 published: true
 tags:
   - cardano
@@ -132,3 +134,21 @@ This is something on the same lines of attribution. This helps us realize that t
 The system also needs to know about the transactions happening on the other blockchain so that they can validate a transaction on the other chain as well. So that there is no single crypto to rule them all.
 
 {% include note.html title="All of this is optional and not visible to everyone" description="One thing that we need to understand is that all of these are optional and also these data points are only visible to one entity or sometimes both of the parties involved and would be put on the blockchain using some hashing mechanism." %}
+
+## Solving sustainability - Cardano
+
+With sustainability, we are talking about the continuous development of the chain technology after the initial development is completed.
+
+The main idea behind the proposal is that the big corporations should not take over the development and start building stuff that is important to them and start moving the chain in the direction that they want it to take.
+
+ICOs can be a good way of doing this but they don't offer a reliable flow of money, it is a single-time injection of huge bucks which is generally non-repeatable.
+ 
+To solve this we have to develop a democratic system that is used to fund all the projects that folks want to develop on top of the chain and any changes the chain needs to have to make it better.
+
+There also needs to be a treasury that will have the funds to allocate to the projects that worthy enough and decided by the democratic process.
+
+Also, we need to incentivize folks who participate in this democratic process.
+
+There are people who are trying to figure all these problems and working to implement them.
+
+I believe that once we start to solve some of these problems, we will see old financial institutions start realizing the importance of the Blockchain and start accommodating it to their system.
