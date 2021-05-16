@@ -118,11 +118,11 @@ Some techniques which are useful to control the data size are:
 
 ## Solving interoperability with Cardano
 
-In the open market world of finance which involves banks and other financial institutes, a lot of important things which makes the basis of the whole system are not present in the Blockchain which makes them hard to trust anything done on the Blockchain.
+In the open market world of finance which involves banks and other financial institutes, a lot of important things which make the basis of the whole system are not present in the Blockchain. It makes them hard to trust anything done on the Blockchain.
 
 Till the Blockchain environment becomes the sole provider for sharing money over the internet, we have to keep working with these old financial institutes.
 
-Cardano team is working on a solution so that it can help fill this gap between the transaction done in the Blockchain and the transaction done on the Banks website.
+Cardano team is working on a solution so that it can help fill this gap between the transaction done in the Blockchain and the transaction done on the Banks.
 
 For this to work, Cardano needs to cover 3 main areas.
 
@@ -136,19 +136,19 @@ Attributing the two parties between whom the transaction was done. It is importa
 
 ### Compliance
 
-This is something on the same lines of attribution. This helps us realize that the given transaction is a valid one. It is done to make sure that your company is not working for terror financing or using it to fund malicious activities.
+This is something on the same lines of attribution. This helps us realize that the given transaction is a valid one. It is done to make sure that a company is not working for terror financing or using it to fund malicious activities.
 
 ### Knowing across Blockchain transactions
 
-The system also needs to know about the transactions happening on the other blockchain so that they can validate a transaction on the other chain as well. So that there is no single crypto to rule them all.
+The system also needs to know about the transactions happening on the other blockchain so that they can validate a transaction on the other chain. This is done so that there is no single crypto to rule them all.
 
-{% include note.html title="All of this is optional and not visible to everyone" description="One thing that we need to understand is that all of these are optional and also these data points are only visible to one entity or sometimes both of the parties involved and would be put on the blockchain using some hashing mechanism." %}
+{% include note.html title="All of this is optional and not visible to everyone" description="One thing that we need to understand is that all of these are optional and these data points are only visible to one entity or sometimes both of the parties involved and would be put on the blockchain using some hashing mechanism." %}
 
 ## Solving sustainability - Cardano
 
 With sustainability, we are talking about the continuous development of the chain technology after the initial development is completed.
 
-The main idea behind the proposal is that the big corporations should not take over the development and start building stuff that is important to them and start moving the chain in the direction that they want it to take.
+The main idea behind the proposal is that the big corporations should not take over the development and start building stuff that is important to them and start moving the chain in the direction that they want to take it.
 
 ICOs can be a good way of doing this but they don't offer a reliable flow of money, it is a single-time injection of huge bucks which is generally non-repeatable.
  
@@ -161,3 +161,5 @@ Also, we need to incentivize folks who participate in this democratic process.
 There are people who are trying to figure all these problems and working to implement them.
 
 I believe that once we start to solve some of these problems, we will see old financial institutions start realizing the importance of the Blockchain and start accommodating it to their system.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ja9D0kpksxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
