@@ -89,4 +89,42 @@ To solve this, Cardano is trying to make use of a protocol called, [RINA or Recu
 
 #### Solving the issue with Data size
 
-Blockchain is architected in a way that all nodes in the chain need to have information related to every transaction. But the issue with this approach is that each and 
+Blockchain is architected in a way that all nodes in the chain need to have information related to every transaction. But all of this transaction information is not really useful for everyone. So different concepts can be used with some engineering intelligence to come up with the solution to these.
+
+Some techniques which are useful to control the data size are:
+
+* Pruning
+
+* Subscription
+
+* Compression
+
+* Partitioning
+
+* Subchaining
+
+## Solving interoperability with Cardano
+
+In the open market world of finance which involves banks and other financial institutes, a lot of important things which makes the basis of the whole system are not present in the Blockchain which makes them hard to trust anything done on the Blockchain.
+
+Till the Blockchain environment becomes the sole provider for sharing money over the internet, we have to keep working with these old financial institutes.
+
+Cardano team is working on a solution so that it can help fill this gap between the transaction done in the Blockchain and the transaction done on the Banks website.
+
+For this to work, Cardano needs to cover 3 main areas.
+
+### Metadata
+
+This is the main information of the transaction which tells us why this transaction was done. If the transaction was done on education, it is considered as a good one but if the transaction was done to buy the lottery, it is considered as a bad one( Unless you win one).
+
+### Attribution
+
+Attributing the two parties between whom the transaction was done. It is important for the financial institute/ treasury department to know that this transaction was not done to finance terror activity or something fishy.
+
+### Compliance
+
+This is something on the same lines of attribution. This helps us realize that the given transaction is a valid one. It is done to make sure that your company is not working for terror financing or using it to fund malicious activities.
+
+### Knowing across Blockchain transactions
+
+The system also needs to know about the transactions happening on the other blockchain so that they can validate a transaction on the other chain as well. So that there is no single crypto to rule them all. 
