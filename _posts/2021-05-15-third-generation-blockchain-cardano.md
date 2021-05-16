@@ -96,7 +96,7 @@ One more great thing about Ouroboros is that it can run epochs in parallel and c
 
 #### Allowing more data to pass - Solving Networking bottlenecks
 
-To solve this, Cardano is trying to make use of a protocol called, [RINA or Recursive InterNetwork Architecture](https://www.martingeddes.com/think-tank/network-architecture-research-tcp-ip-vs-rina/). With the use of this, Cardano will be able to scale at a level of capturing 100s or 1000s of transactions per second.
+To solve this, Cardano is trying to make use of a protocol called, [RINA or Recursive InterNetwork Architecture](https://www.martingeddes.com/think-tank/network-architecture-research-tcp-ip-vs-rina/). With this, Cardano will be able to scale at a level of capturing 100s or 1000s of transactions per second.
 
 #### Solving the issue with Data size
 
