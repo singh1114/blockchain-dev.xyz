@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding crypto airdrop
+title: Understanding crypto airdrop - Truth Behind extra coins in your wallet
 date: 2021-05-16T12:14:11.227Z
 updated_date: 2021-05-16T12:14:11.297Z
 published: false
