@@ -44,7 +44,7 @@ These apps essentially were not financial service-related. All these things help
 
 Unfortunately, both of these generations had a few underlying issues that were holding them back from becoming the main source of money transferring. One of them was scalability.
 
-Crypto due to its architecture( more aligned toward security) allowed a limited number of transactions per second and it to become the mainstream way of transferring money, it had to handle a lot more transactions than it was currently handling.
+Crypto due to its architecture( more aligned toward security) allowed a limited number of transactions per second and for it to become the mainstream way of transferring money, it had to handle a lot more transactions than it is currently handling.
 
 ## Third generation of cryptocurrency - Cardano
 
