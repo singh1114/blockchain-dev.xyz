@@ -72,7 +72,7 @@ Transactions per second is the main scalability issue that we want to tackle. Mo
 
 ### Network Bandwidth
 
-According to the design of Blockchain systems, since it's a peer-to-peer network it's hard to achieve network bandwidth of Megabytes to Gigabytes.
+According to the design of Blockchain systems, since it's a peer-to-peer network it's hard to achieve network bandwidth of Megabytes to Gigabytes for it to scale at a level of what financial services are handling today.
 
 ### Data storage
 
