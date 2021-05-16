@@ -6,6 +6,7 @@ updated_date: 2021-05-16T12:19:42.339Z
 description: Issues with the first and second generation of crypto currencies
   and how cardano is working to solve all these problems.
 published: true
+image: https://i.ibb.co/ZHnkdrV/Third-Generation-Cryptos.png
 tags:
   - cardano
   - bitcoin
@@ -19,6 +20,8 @@ author_username: ranvir_xyz
 show_ads: true
 show_telegram_signup: false
 ---
+{% include lazyload.html image_src="https://i.ibb.co/ZHnkdrV/Third-Generation-Cryptos.png" image_alt="Third generation blockchain - Discussion on Cardano" image_title="Third generation blockchain - Discussion on Cardano" %}
+
 When we discussed a little about the [history of the blockchain](https://blockchain-dev.xyz/brief-history-of-blockchain/) and how it all started we never discussed the details of how the system works under the hood, we just wanted to get started.
 
 In this post, we are going to discuss in detail, how everything came into the picture. We will also build a story that will explain to us why we needed to move to a better system that we already had and what is being built.
