@@ -38,11 +38,11 @@ There were other problems as well and we will keep talking about them later in t
 
 ## Second generation of cryptocurrency - Ethereum
 
-This generation provided the ability to the developers to somehow add stuff on top of Blockchain allowing them to build their own stuff using code. So essentially, now developers can push their own stuff onto the Blockchain and build different apps on it.
+This generation provided the ability to the developers to somehow add stuff on top of Blockchain allowing them to build their own stuff using code. So essentially, now developers can push their own stuff onto the Blockchain and build different apps using it.
 
 These apps essentially were not financial service-related. All these things helped Ethereum to have the biggest developer base.
 
-Unfortunately, both of these generations had an issue that was holding them back from becoming the main source of money transferring. Which was scalability.
+Unfortunately, both of these generations had a few underlying issues that were holding them back from becoming the main source of money transferring. One of them was scalability.
 
 Crypto due to its architecture( more aligned toward security) allowed a limited number of transactions per second and it to become the mainstream way of transferring money, it had to handle a lot more transactions than it was currently handling.
 
