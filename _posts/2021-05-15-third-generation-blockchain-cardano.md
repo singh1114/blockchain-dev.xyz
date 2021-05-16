@@ -48,7 +48,9 @@ Crypto due to its architecture( more aligned toward security) allowed a limited 
 
 ## Third generation of cryptocurrency - Cardano
 
-The main issue with crypto is just not powering the developers to build stuff on top of the blockchain itself, it is also to build the blockchain itself, as all nodes at a given time, need to have the whole data point with each and every update on it, we need good systems with large storage. With third-generation cryptocurrencies, we are trying to solve issues like this.
+The main issue with crypto is not just powering the developers to build stuff on top of the blockchain itself, it is also to build the blockchain as well.
+
+With third-generation cryptocurrencies, we are trying to solve issues like these.
 
 So the third generation of cryptocurrencies is built using 3 main parameters in mind.
 
@@ -57,6 +59,8 @@ So the third generation of cryptocurrencies is built using 3 main parameters in 
 * Interoperability
 
 * Sustainability
+
+We will talk about each of them in detail during the post.
 
 ## Solving scalability with Cardano
 
