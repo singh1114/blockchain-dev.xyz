@@ -71,4 +71,6 @@ Since all the nodes need to have a copy of each transaction on the Blockchain an
 
 #### Solving TPS issue with Ouroboros
 
-For handling the TPS issue Cardano is using peer-reviewed implementation of [Ouroboros](https://cardano.org/ouroboros/).
+For handling the TPS issue Cardano is using a peer-reviewed implementation of [Ouroboros](https://cardano.org/ouroboros/). How do `Ouroboros` works is a separate post of its own. We only want to discuss how it will help scale the TPS for a given chain.
+
+  
