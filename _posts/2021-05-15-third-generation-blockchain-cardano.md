@@ -22,9 +22,9 @@ show_telegram_signup: false
 ---
 {% include lazyload.html image_src="https://i.ibb.co/ZHnkdrV/Third-Generation-Cryptos.png" image_alt="Third generation blockchain - Discussion on Cardano" image_title="Third generation blockchain - Discussion on Cardano" %}
 
-When we discussed a little about the [history of the blockchain](https://blockchain-dev.xyz/brief-history-of-blockchain/) and how it all started we never discussed the details of how the system works under the hood, we just wanted to get started.
-
-In this post, we are going to discuss in detail, how everything came into the picture. We will also build a story that will explain to us why we needed to move to a better system that we already had and what is being built.
+When we discussed a little about the [history of the blockchain](https://blockchain-dev.xyz/brief-history-of-blockchain/) and how it all started we never discussed the details of how the system works under the hood, all we wanted to do over there was to know how it all started without going to the details.
+ 
+In this post, we are going to discuss in detail, how everything came into the picture. We will also build a story that will explain to us why we needed to move to a better system and what is being built.
 
 ## First generation of cryptocurrency - Bitcoin
 
