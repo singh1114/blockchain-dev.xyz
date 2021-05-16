@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Third generation blockchain - Discussion on Cardano
-date: 2021-05-15T21:01:51.664Z
-updated_date: 2021-05-15T21:01:51.695Z
+date: 2021-05-16T12:19:41.391Z
+updated_date: 2021-05-16T12:19:42.339Z
 published: true
 tags:
   - cardano
