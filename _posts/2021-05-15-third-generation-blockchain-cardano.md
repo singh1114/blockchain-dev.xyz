@@ -89,7 +89,9 @@ To solve this, Cardano is trying to make use of a protocol called, [RINA or Recu
 
 #### Solving the issue with Data size
 
-Blockchain is architected in a way that all nodes in the chain need to have information related to every transaction. But all of this transaction information is not really useful for everyone. So different concepts can be used with some engineering intelligence to come up with the solution to these.
+Blockchain is architected in a way that all nodes in the chain need to have information related to each and every transaction. But all of this transaction information is not really useful for everyone.
+
+So different concepts can be used with some engineering intelligence to come up with the solution to these.
 
 Some techniques which are useful to control the data size are:
 
