@@ -90,7 +90,7 @@ With such a technique, we can have a probable secure network given more than 51%
 
 {% include lazyload.html image_src="https://i.ibb.co/Fqw4Qsz/51.jpg" image_alt="51 percent attack in Silicon Valley" image_title="51 percent attack in Silicon Valley" %}
 
-One more great thing about Ouroboros is that it can run epochs in parrallel and can achieve more TPS when more nodes want to connect.
+One more great thing about Ouroboros is that it can run epochs in parallel and can achieve more TPS when more nodes want to connect.
 
 {% include lazyload.html image_src="https://i.ibb.co/NprFhfr/Screenshot-2021-05-16-at-6-01-17-PM.png" image_alt="Ouroboros Design" image_title="Ouroboros Design" %}
 
