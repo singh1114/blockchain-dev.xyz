@@ -71,7 +71,14 @@ Since all the nodes need to have a copy of each transaction on the Blockchain an
 
 #### Solving TPS issue with Ouroboros
 
-For handling the TPS issue Cardano is using a peer-reviewed implementation of [Ouroboros](https://cardano.org/ouroboros/).  How do `Ouroboros` works is a separate post of its own. We only want to discuss how it will help scale the TPS for a given chain.
+For handling the TPS issue Cardano is using a peer-reviewed implementation of [Ouroboros](https://cardano.org/ouroboros/). How do `Ouroboros` works is a separate post of its own. We only want to discuss how it will help scale the TPS for a given chain.
 
-{% include lazyload.html image_src="https://i.ibb.co/NprFhfr/Screenshot-2021-05-16-at-6-01-17-PM.png" image_alt="Ouroboros Design" image_title="Ouroboros Design" %}
+Ouroboros uses a proof of stack algorithm as compared to proof of work algorithm as used by older version of cryptocurrencies. So, what it essentially does is that it choses a leader from all the nodes available for a given slot and allow only that to mine the transaction.
 
+With such technique, we can have a probable secure network given more 51% of the nodes available for mining are not compromised. Remember 51% attack in Silicon Valley, this is what they were trying to do.
+
+{% include lazyload.html image_src="https://i.ibb.co/Fqw4Qsz/51.jpg" image_alt="51% attack in Silicon Valley" image_title="51% attack in Silicon Valley" %}
+
+One more great thing about Ouroboros is that it can run epochs in parrallel and can achieve more TPS when more nodes want to connect.
+
+#### ABC
