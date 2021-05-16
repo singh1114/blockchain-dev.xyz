@@ -129,4 +129,4 @@ This is something on the same lines of attribution. This helps us realize that t
 
 The system also needs to know about the transactions happening on the other blockchain so that they can validate a transaction on the other chain as well. So that there is no single crypto to rule them all.
 
-{% include note.html title="All of this is optional and not visible to everyone" description="One thing that we need to understand is that all of these are optional and also these data points is only visible to one entity and would be put the blockchain using some hashing mechanism." %}
+{% include note.html title="All of this is optional and not visible to everyone" description="One thing that we need to understand is that all of these are optional and also these data points are only visible to one entity and would be put the blockchain using some hashing mechanism." %}
