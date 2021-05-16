@@ -64,11 +64,11 @@ We will talk about each of them in detail during the post.
 
 ## Solving scalability with Cardano
 
-Scalability for every system can be divided into three main points more so to the cryptocurrency world.
+Scalability for every system can be divided into three main points, more so for the cryptocurrency world.
 
 ### TPS
 
-Transactions per second are the main scalability point that we want to tackle. More the number of transactions per second, more the number of users that will be able to transfer money.
+Transactions per second is the main scalability issue that we want to tackle. More the number of transactions per second, more the number of users that will be able to transfer money.
 
 ### Network Bandwidth
 
