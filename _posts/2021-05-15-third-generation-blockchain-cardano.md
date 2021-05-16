@@ -32,7 +32,7 @@ So, as we already discussed in the history post, the only issue that Bitcoin was
 
 They created a token that was scarce and tradable. This concept was implemented and over the years a lot of people started using it and started finding it useful.
 
-Although this was a groundbreaking implementation, there were a lot of flaws in it and if you wanted to make some change to how Bitcoin works they had to build a new cryptocurrency which was not ideal as well.
+Although this was a groundbreaking implementation, there were a lot of flaws in it and if you wanted to make some change to how Bitcoin works they had to build a new cryptocurrency. This is not an ideal scenario.
 
 There were other problems as well and we will keep talking about them later in the post.
 
