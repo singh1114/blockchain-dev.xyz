@@ -86,7 +86,7 @@ How do `Ouroboros` works is a separate post of its own. We only want to discuss 
 
 Ouroboros uses a proof of stack algorithm as compared to proof of work algorithm as used by the older version of cryptocurrencies. So, what it essentially does is that it chooses a leader from all the nodes available for a given slot and allow only that to mine the transaction.
 
-With such a technique, we can have a probable secure network given more 51% of the nodes available for mining are not compromised. Remember 51% attack in Silicon Valley, this is what they were talking about.
+With such a technique, we can have a probable secure network given more than 51% of the nodes available for mining are not compromised. Remember 51% attack in Silicon Valley, this is what they were talking about.
 
 {% include lazyload.html image_src="https://i.ibb.co/Fqw4Qsz/51.jpg" image_alt="51 percent attack in Silicon Valley" image_title="51 percent attack in Silicon Valley" %}
 
