@@ -14,6 +14,6 @@ author_name: Ranvir Singh
 author_username: ranvir_xyz
 show_ads: true
 show_telegram_signup: false
-skip_from_listing: true
+skip_from_listing: false
 ---
 Understanding crypto airdrop
