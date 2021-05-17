@@ -22,4 +22,4 @@ Recently WazirX CEO & Founder [Nischal Shetty](https://twitter.com/NischalShetty
 
 Airdrop is a great way of rewarding your users for believing in your product.
 
-In this post, we are going to discuss what they are in much more detail. So, let's get started.
+In this post, we are going to discuss what they are in much more detail. By the end of the post, you will know what they are and how do companies use them. So, let's get started.
