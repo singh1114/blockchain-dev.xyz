@@ -20,4 +20,6 @@ Recently WazirX CEO & Founder [Nischal Shetty](https://twitter.com/NischalShetty
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 927<br><br>Announcing WRX Airdrop program for users who bought SHIB at exceptionally high price &amp; did not sell.<br><br>WazirX is about trust &amp; we have decided to help our users.<br><br>We will AIRDROP WRX equivalent to your loss!<br><br>Details soon<br><br>Plz share &amp; RT <a href="https://twitter.com/hashtag/WazirXCares?src=hash&amp;ref_src=twsrc%5Etfw">#WazirXCares</a><a href="https://twitter.com/hashtag/IndiaWantsCrypto?src=hash&amp;ref_src=twsrc%5Etfw">#IndiaWantsCrypto</a></p>&mdash; Nischal (WazirX) ⚡️ (@NischalShetty) <a href="https://twitter.com/NischalShetty/status/1393809844637880321?ref_src=twsrc%5Etfw">May 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Airdrop is a great way of rewarding your users. In this post, we are going to discuss what they are in much more detail. So, let's get started.
+Airdrop is a great way of rewarding your users for believing in your product.
+
+In this post, we are going to discuss what they are in much more detail. So, let's get started.
